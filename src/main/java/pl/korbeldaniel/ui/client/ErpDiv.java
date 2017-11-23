@@ -1,4 +1,6 @@
-package pl.korbeldaniel.ui;
+package pl.korbeldaniel.ui.client;
+
+import pl.korbeldaniel.ui.client.IsDiv;
 
 public class ErpDiv implements IsDiv {
 
