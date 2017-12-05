@@ -30,4 +30,4 @@ classes
 gwt-unitCache*
 org.eclipse*
 .errai/*
-.project
+/.project

@@ -19,8 +19,6 @@
   <inherits name="gwt.material.design.addins.GwtMaterialAddinsDebug"/>
   <inherits name="gwt.material.design.GwtMaterialTableDebug"/>
 
-  <inherits name="org.jboss.errai.enterprise.All" />
-
   <set-property name="gwt.logging.enabled" value="TRUE" />
   <set-property name="gwt.logging.consoleHandler" value="ENABLED" />
   <set-property name="gwt.logging.logLevel" value="INFO" />
