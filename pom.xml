@@ -40,6 +40,12 @@
 			<artifactId>ui-api</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+		<dependency>
+			<groupId>pl.korbeldaniel</groupId>
+			<artifactId>ui-api</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+			<classifier>sources</classifier>
+		</dependency>
 		<!-- Gwt -->
 		<dependency>
 			<groupId>com.google.gwt</groupId>
